@@ -1,0 +1,29 @@
+{
+  "name": "proiect-teh-web",
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "dianatautu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "msql": "^1.0.3",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.26.0",
+    "sequelize-cli": "^3.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianatau/proiect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dianatau/proiect/issues"
+  },
+  "homepage": "https://github.com/dianatau/proiect#readme",
+  "keywords": []
+}
